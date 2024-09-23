@@ -1,12 +1,12 @@
-### Hi there 👋, my name is Armando
-#### I am a Data Scientist Jr.
-![I am a Data Scientist Jr.](./github-header-image.png)
 
+
+![I am a Data Scientist Jr.](./github-header-image.png)
+### Hi there 👋, my name is Jorge
 • Junior Data Scientist with over 5 years of experience in logistics, project management and processes . I
 implemented a predictive model (Holt-Winters) that was able to reduce warehouse inventory by more than 20%.
 
 
-Skills: Data Scientist | Ind. Engineer | Machine Learning | Python | SQL
+Skills:  Python | SQL | Numpy | Pandas | Scikit-learn | Plotly  
 
 - 🔭 I’m currently working on a model that segments clients based on their level of usage  in a learning platform 
 - 🌱 I’m currently learning more skills to create better ml models :) 
