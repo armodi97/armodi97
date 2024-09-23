@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Armando
 #### I am a Data Scientist Jr.
-![I am a Data Scientist Jr.]
+![I am a Data Scientist Jr.](./github-header-image.png)
 
 • Junior Data Scientist with over 5 years of experience in logistics, project management and processes . I
 implemented a predictive model (Holt-Winters) that was able to reduce warehouse inventory by more than 20%.
